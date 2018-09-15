@@ -1,0 +1,2 @@
+# mining
+Some notes
