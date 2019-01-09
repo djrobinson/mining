@@ -11,3 +11,12 @@ https://linuxconfig.org/begin-mining-ethereum-on-ubuntu-16-04-xenial-xerus-linux
 
 Ubuntu download:
 http://releases.ubuntu.com/16.04/
+
+https://websiteforstudents.com/install-proprietary-nvidia-gpu-drivers-on-ubuntu-16-04-17-10-18-04/
+https://linuxconfig.org/how-to-install-the-latest-nvidia-drivers-on-ubuntu-16-04-xenial-xerus
+https://www.nvidia.com/Download/index.aspx
+
+`sudo lshw`
+sudo add-apt-repository ppa:graphics-drivers/ppa
+sudo apt-get update
+sudo apt-get install nvidia-410
